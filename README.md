@@ -3,6 +3,9 @@
 
 Task Tracker CLI is a Node.js-based command-line application to manage tasks efficiently. It allows you to add, update, delete, and track the status of tasks. Tasks are stored in a JSON file, making it simple to maintain and manage.
 
+## Project URL
+- https://roadmap.sh/projects/task-tracker
+
 ## Features
 
 - **Add Tasks**: Add new tasks with a title.
